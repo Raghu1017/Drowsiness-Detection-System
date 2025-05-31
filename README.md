@@ -36,7 +36,7 @@ This project is designed to help prevent **accidents due to fatigue**, especiall
 Drowsiness-Detection-System/
 ├── drowsiness.py # Main Python script
 ├── requirements.txt # List of required packages 
-└── README.md # Project documentation (you are here)
+└── README.md # Project documentation 
 
 
 
